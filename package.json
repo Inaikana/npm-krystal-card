@@ -1,13 +1,24 @@
 {
   "name": "krystal-card",
-  "version": "1.1.0",
-  "description": "",
+  "version": "1.1.1",
+  "description": "可以把一個帶有數個編碼值的陣列轉成一段連續的文字",
   "main": "krystal.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "encode",
+    "convert",
+    "array",
+    "string",
+    "text",
+    "utility",
+    "formatter"
+  ],
+  "author": "Inai <cutemagic0517@gmail.com>",
   "license": "ISC",
-  "type": "commonjs"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Inaikana/npm-krystal-card"
+  }
 }
